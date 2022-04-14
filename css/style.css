@@ -206,7 +206,7 @@ h6 { font-size: 16px; }
 .arlo_tm_topbar .logo .dark{display: none;}
 .arlo_tm_topbar.animate .logo .dark{display: block;}
 .arlo_tm_topbar.animate .logo .light{display: none;}
-.arlo_tm_topbar .logo img{max-width: 50px;}
+.arlo_tm_topbar .logo img{max-height: 50px;}
 .arlo_tm_topbar .menu ul{
 	margin: 0px;
 	list-style-type: none;
@@ -263,7 +263,7 @@ h6 { font-size: 16px; }
 	align-items: center;
 	justify-content: space-between;
 }
-.arlo_tm_mobile_menu .mobile_in .logo img{max-width: 50px;}
+.arlo_tm_mobile_menu .mobile_in .logo img{max-height: 50px;}
 .my_trigger .hamburger{
     padding: 15px 15px;
     display: inline-block;
